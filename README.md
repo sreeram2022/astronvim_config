@@ -1,3 +1,6 @@
+I've experimented with various Neovim configurations, and this was one of my early setups.
+
+
 # AstroNvim User Configuration Example
 
 A user configuration template for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
